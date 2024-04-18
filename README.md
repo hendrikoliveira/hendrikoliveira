@@ -2,7 +2,7 @@
 
 - 🔭 Loading Idéias novas...
 - 🧑🏽‍🎓 Cursando 5º período em Engenharia de Software 
-- 🚀 faço parte da 20º PS Web Full Stack Growdev
+- 🚀 Faço parte da 20º PS Web Full Stack Growdev
 - 💬 Possuo conhecimento em PHP, HTML, JavaScript, MySQL.
 - 📫 How to reach me:
 - 📸 https://www.instagram.com/hendrik_o_s
